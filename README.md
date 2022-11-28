@@ -25,7 +25,8 @@ Step 6: Display process of runtimepermission in android mobile devices.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-### 
+### Developed by        : H.Dhayanitha
+### Registration Number : 212220230010
 ### MainActivity.java
 ```
 package com.example.runtimepermission;
